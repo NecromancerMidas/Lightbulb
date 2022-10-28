@@ -1,0 +1,11 @@
+﻿body
+{
+}
+div.color{
+    background-color:gray;
+    display:flex;
+    height:300px;
+    width:400px;
+    border-radius:45%;
+    
+}
